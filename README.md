@@ -1,4 +1,4 @@
-# 📈 Indian Stock Market Analysis (2017–2023)
+# 📈 Indian Stock Market Analysis (2017–2025)
 ### 6 Companies | Exploratory Data Analysis (EDA) | Statistical Analysis | Tableau Dashboard
 
 ---
@@ -7,7 +7,7 @@
 
 The Indian stock market is highly dynamic, making it difficult for investors to understand stock performance, compare returns, and evaluate investment risk.
 
-This project performs a comprehensive **Exploratory Data Analysis (EDA)** and **Statistical Analysis** on six major Indian companies using historical stock prices from **2017 to 2023**.
+This project performs a comprehensive **Exploratory Data Analysis (EDA)** and **Statistical Analysis** on six major Indian companies using historical stock prices from **2017 to 2025**.
 
 The analysis focuses on:
 
@@ -54,7 +54,7 @@ Historical daily closing prices collected using the **yfinance** Python library.
 **Time Period**
 
 - January 2017
-- June 2023
+- June 2025
 
 ---
 
