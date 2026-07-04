@@ -122,19 +122,21 @@ The interactive dashboard provides:
 
 # 📂 Project Structure
 
-```
-Indian-Stock-Market-Analysis/
+```text
+Stock_Market_Project/
 │
-├── Stock_EDA_Analysis.ipynb
+├── Descriptive_Analysis_Project.ipynb
 ├── Reliance_Industries_Analysis.ipynb
 ├── HDFC_Bank_Analysis.ipynb
 ├── ITC_Limited_Analysis.ipynb
 ├── Maruti_Suzuki_Analysis.ipynb
-├── RCOM_Analysis.ipynb
 ├── Ballarpur_Industries_Analysis.ipynb
-├── Descriptive_Analysis_Project.ipynb
+├── RCOM_Analysis.ipynb
+├── Stock_EDA_Analysis.ipynb
+│
 ├── Final_Dashboard.twbx
-├── README.md
+│
+└── README.md
 ```
 
 ---
@@ -153,27 +155,21 @@ Indian-Stock-Market-Analysis/
 
 # 🚀 How to Run
 
-### 1 Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Indian-Stock-Market-Analysis.git
-```
-
-### 2 Install Required Libraries
+## Install Required Libraries
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy yfinance jupyter
 ```
 
-### 3 Launch Jupyter Notebook
+## Open Jupyter Notebook
 
 ```bash
 jupyter notebook
 ```
 
-### 4 Run the notebooks
+## Launch Tableau Dashboard
 
-Execute the notebooks step-by-step to reproduce the analysis.
+Open `Final_Dashboard.twbx` in **Tableau Desktop**.
 
 ---
 
